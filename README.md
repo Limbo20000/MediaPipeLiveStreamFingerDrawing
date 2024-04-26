@@ -10,6 +10,7 @@ Detect hand larndmark points on image and on live video feed.
 - **Gesture Recognition**: Trained the model to recognize four specific gestures which are: Flat, Palm, Thumbs Up and Circle.
 
 - **Canvas Drawing**: Enables users to draw directly on a blank canvas in real time based on hand gestures.
+- **Generate Images**: With the usage of the drawn image with your fingers and stable diffusion generate unique images
 
 ## Usage
 
