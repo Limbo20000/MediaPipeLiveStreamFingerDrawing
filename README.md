@@ -13,6 +13,3 @@ Detect hand larndmark points on image and on live video feed.
 
 ## Usage
 
-1. **Install Dependencies**: Make sure to install the necessary libraries and dependencies. You can use `pip` to install required packages:
-   ```bash
-   pip install -r requirements.txt
